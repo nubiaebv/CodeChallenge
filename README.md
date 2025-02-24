@@ -18,8 +18,10 @@ Este es un proyecto de una aplicación de escritorio que utiliza la Pokémon API
    ```bash
    pip install requests
 3. Ejecuta la aplicación
+    ```bash
    python main.py
-5. Para ejecutar las pruebas 
+5. Para ejecutar las pruebas
+    ```bash 
    python -m unittest test_api_client.py
 
  ## Nota 
