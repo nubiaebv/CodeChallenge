@@ -1,5 +1,5 @@
 # CodeChallenge
-Prueba practica para evaluar avilidades
+Prueba práctica para evaluar habilidades
 
 # Pokémon App
 
